@@ -7,6 +7,8 @@ function agregarAmigo() {
         alert("Por favor, inserte un nombre.")
     } else {
         amigos.push(nombre);
+        //agrege aca la funcion mostrarAmigos para que se viera en la web la lista
+        mostrarAmigos();
     }
     document.getElementById("amigo").value = "";
 }
