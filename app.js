@@ -10,3 +10,19 @@ function agregarAmigo() {
     }
     document.getElementById("amigo").value = "";
 }
+
+function mostrarAmigos() {
+    let lista = document.getElementById("listaAmigos");
+    lista.innerHTML = "";
+
+    for (let i = 0; i < amigos.length; i++) {
+        //aca creara un elemento nuevo para cada amigo
+        let amigoEnLi = document.createElement("li");
+
+        //aca asigna el nombre del amigo agregado a un elemento li
+        amigoEnLi.textContent = amigos[i];
+
+        lista.appendChild(amigoEnLi);
+    }
+
+}
