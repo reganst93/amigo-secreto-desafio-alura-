@@ -3,10 +3,11 @@
 <p align="left">
    <img src="https://img.shields.io/badge/STATUS-%20TERMINADO-green">
    </p>
-Este proyecto consiste en desarrollar una aplicación interactiva que permita gestionar un sorteo de "Amigo Secreto". Los usuarios podrán ingresar nombres en una lista mediante un campo de texto y un botón "Añadir".
-Los nombres se mostrarán en pantalla para confirmar los participantes. Finalmente, al presionar el botón "Sortear Amigo", se seleccionará un nombre de forma aleatoria, mostrando el resultado en pantalla. Esta aplicación es ideal para organizar de manera rápida y divertida el intercambio de regalos entre amigos o familiares.
+- Este proyecto consiste en desarrollar una aplicación interactiva que permita gestionar un sorteo de "Amigo Secreto". 
+- Los usuarios podrán ingresar nombres en una lista mediante un campo de texto y un botón "Añadir".
+- Los nombres se mostrarán en pantalla para confirmar los participantes. Finalmente, al presionar el botón "Sortear Amigo", se seleccionará un nombre de forma aleatoria, mostrando el resultado en pantalla. Esta aplicación es ideal para organizar de manera rápida y divertida el intercambio de regalos entre amigos o familiares.
 
-:hammer:Funcionalidad del proyecto
+## :hammer:Funcionalidad del proyecto
 
 Agregar nombres ✍️: Los usuarios pueden escribir el nombre de un amigo en un campo de texto y agregarlo a una lista visible al hacer clic en el botón "Adicionar".
 
